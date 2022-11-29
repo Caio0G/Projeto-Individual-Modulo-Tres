@@ -1,7 +1,7 @@
 {
      "Em-cartaz": [
 
-      {"id": 1, "titulo": "Adao Negro", "diretor(a)": "Jaume Collet-Serra", "duracao": "125 min", "classificacao": "14 anos", "distribuidora": "Warner Bros", "genero":"Acao, Aventura" },
+      {"id": 1, "titulo": "Adao Negro", "diretor(a)": "Jaume Collet-Serra", "duracao": "125 min", "classificacao": "14 anos", "distribuidora": "Warner Bros", "genero":"Acao, Aventura" , "cartazdofilme" : "https://www.barrashopping.com.br/sites/testes/files/cinema/ad__o-negro_1.jpg"  }, },
      
       {"id": 2, "titulo":"A luz do Demonio", "diretor(a)":"Daniel Stamm", "duracao":"93 min", "classificacao":"14 anos", "distribuidora":"Paris Filmes", "genero":"Suspense, Terror"},
      
